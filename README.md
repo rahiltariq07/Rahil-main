@@ -1,6 +1,6 @@
 # Rahil's main Repository
 
-This is Rahil Tariq's main repository. This repository contains links for other repositories
+This is Rahil Tariq's main repository. This repository contains links for other repositories.
 
 # Repositories
 
