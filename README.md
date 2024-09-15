@@ -20,3 +20,4 @@ This is Rahil Tariq's main repository. This repository contains links for other 
 | 4 | [Color Hex Generator](https://github.com/rahiltariq07/color-hexa-generator) |Color Hex Generator is created using JavaScript|
 | 5 | [SignUp-SignIn](https://github.com/rahiltariq07/SignUp-SignIn) |Sign up Sign in form is created using HTML, CSS and JavaScript|
 | 6 | [hcj-js-fetchapi-userlist](https://github.com/rahiltariq07/hcj-js-fetchapi-userlist) |Using fetch method to get information of users|
+| 7 | [hcj-js-fetchapi-countrysearch](https://github.com/rahiltariq07/hcj-js-fetchapi-countrysearch) |Using fetch method to get country flags|
